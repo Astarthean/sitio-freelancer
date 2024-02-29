@@ -1,2 +1,2 @@
 # [Sitio Freelancer](https://freelancer-ana.web.app/)
-### Deploy en firebase
+#### Web estática responsive con deploy en firebase
